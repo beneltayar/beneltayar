@@ -25,4 +25,4 @@ If needed, this policy may be updated. Any changes will be reflected on this pag
 
 ## Contact
 If you have any questions about this policy, contact me at:
-**benel.tayar@gmail.com**
+**beneltayar@gmail.com**
